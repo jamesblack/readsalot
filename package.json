@@ -1,0 +1,12 @@
+{
+  "name": "readsalot",
+  "version": "0.0.1",
+  "description": "loads text files from a folder and hooks them on a folder",
+  "author": "jamesblack",
+  "main": "./lib/readsalot",
+  "keywords": ["text"],
+  "repository" : "git://github.com/JamesBlack/readsalot",
+  "engines": {
+    "node": "*"
+  }
+}
